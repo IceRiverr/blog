@@ -1,41 +1,10 @@
-## Welcome to GitHub Pages
+## 冰河的博客
 
-You can use the [editor on GitHub](https://github.com/IceRiverr/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我个人的一些博客，用来放一些我自己写的东西。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我的 [now](Blogs/../Articles/现在.md) 页面。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IceRiverr/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### 如下是我的介绍
-[now](Blogs/now.md)
+### 我的翻译
+我在做一部分翻译，主要是 Derek Sivers 的文章。
+[1](Articles/Cross_the_world_four_times_en_cn.md)。
 
