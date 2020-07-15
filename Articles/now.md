@@ -1,5 +1,5 @@
-> 初稿：2020年06月12日  
-最近受到Derek的[now页面](https://sivers.org/now)启发，也写一个now页面，用来更新我当下的状态。
+> 初稿：2020年06月12日 
+> 最近受到Derek的[now页面](https://sivers.org/now)启发，也写一个now页面，用来更新我当下的状态。
 
 ## 日常
 我的[github](https://github.com/IceRiverr)，邮箱：1664085149@qq.com。
@@ -31,7 +31,7 @@
 
 ## 英语
 从去年开始下决心学英语，每天早晨会抽出半小时来读。  
-从新概念2开始，现在到新概念4了，我主要是跟读，不背诵。学的是美语发音。
+从新概念2开始，现在到新概念4了，我主要是跟读，不背诵。学的是美语发音。 
 跟读的软件是[点滴复读机](http://www.diandienglish.com/phone/ddrepeator.html)，很好用，我从去年用到今年。  
 练习听力我用的是[每日英语听力](http://dict.eudic.net/ting/)，用来没事时听。  
 
