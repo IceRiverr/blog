@@ -11,3 +11,4 @@
 
 [Derek Sivers：宁可行动起来以验证理论](Articles/Err_on_the_side_of_action_to_test_theories_en_cn.md)，原文[Err on the side of action, to test theories](https://sivers.org/erra)
 
+[Derek Sivers：别像头驴](Articles/Dont_be_a_donkey_en_cn.md)，原文[Don’t be a donkey](https://sivers.org/donkey)
