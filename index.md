@@ -4,6 +4,9 @@
 
 我的 [now](Blogs/../Articles/now.md) 页面。
 
+## 我的文章
+[我为什么喜欢写写写](Articles/我为什么喜欢写写写.md)
+
 ### 我的翻译
 [Derek Sivers：穿越人生的四个阶段](Articles/Cross_the_world_four_times_en_cn.md)，原文[Cross the world four times](https://sivers.org/4)
 
